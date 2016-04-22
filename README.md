@@ -4,15 +4,18 @@
 ## Installation
 
 ```sh
-$ npm install --save gaus
+$ npm install --global gaus
 ```
 
 ## Usage
 
-```js
-var gaus = require('gaus');
-
-gaus('Rainbow');
+```bash
+$ gaus ryan
+rgaus.net
+$ gaus nancy
+nancysews.com
+$ gaus dad
+twohourdelay.com
 ```
 ## License
 
