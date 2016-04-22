@@ -11,6 +11,9 @@
   "files": [
     "dist"
   ],
+  "bin": {
+    "gaus": "./lib/index"
+  },
   "main": "dist/index.js",
   "keywords": [
     "gaus",
